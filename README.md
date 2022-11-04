@@ -8,7 +8,7 @@
 7. [Lazygit](https://github.com/jesseduffield/lazygit)
 
 
-Themes powerlevel10k: (https://github.com/romkatv/powerlevel10k)
+Themes powerlevel10k: [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 Themes spaceship-prompt: [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 
 
