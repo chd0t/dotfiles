@@ -1,7 +1,7 @@
 [# dotfiles]
-[Lazygit](https://github.com/jesseduffield/lazygit)
-[Fisher](https://github.com/jorgebucaran/fisher)
-[Tmux](https://github.com/tmux/tmux)
+[##Lazygit](https://github.com/jesseduffield/lazygit)
+[###Fisher](https://github.com/jorgebucaran/fisher)
+[####Tmux](https://github.com/tmux/tmux)
 [TPM](https://github.com/tmux-plugins/tpm)
 [zsh-z](https://github.com/agkozak/zsh-z)
 [fzf](https://github.com/junegunn/fzf)
